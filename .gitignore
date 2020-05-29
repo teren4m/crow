@@ -36,3 +36,5 @@ crow_all.h
 
 # conan.io
 build/
+
+.vscode
